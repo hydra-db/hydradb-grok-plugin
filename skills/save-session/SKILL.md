@@ -1,6 +1,6 @@
 ---
 name: save-session
-description: Deprecated alias for /hydradb:ingest. Save the current Claude Code session into HydraDB as one evolving session memory. Prefer /hydradb:ingest; this still works.
+description: Deprecated alias for /hydradb:ingest. Save the current Grok Build session into HydraDB as one evolving session memory. Prefer /hydradb:ingest; this still works.
 allowed-tools: Bash(node *)
 argument-hint: "[session-id]"
 ---
