@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "hydradb": {
+      "type": "streamable-http",
+      "url": "https://mcp.hydradb.com",
+      "headers": { "Authorization": "Bearer ${HYDRADB_API_KEY}" }
+    }
+  }
+}
