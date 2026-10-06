@@ -28,7 +28,7 @@ auto-recall, not just MCP tools.
 
 ```bash
 export HYDRADB_API_KEY="your-api-key"
-export HYDRADB_TENANT_ID="your-tenant-id"
+export HYDRADB_DATABASE="your-tenant-id"
 ```
 
 Install the plugin in Grok Build (from a local checkout, or once listed, via the
