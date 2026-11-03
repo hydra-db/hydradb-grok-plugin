@@ -56,3 +56,11 @@ already gives automatic recall, so MCP is optional here.
 ## License
 
 Apache-2.0 - Copyright (c) 2026 HydraDB
+
+## Offline behavioral tests
+
+Run the query and metadata regression tests with Node.js:
+
+```bash
+node --test tests/openapi-query.test.mjs
+```
